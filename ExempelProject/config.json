@@ -1,0 +1,20 @@
+{
+  "Colors": {
+    "Favorite": "Blue"
+  },
+  "ConnectionStrings": {
+    "ExempelConnectionString": "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=ExempelProjectDoneDb;Integrated Security=True;MultipleActiveResultSets=true;"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning"
+    }
+  },
+  "Tokens": {
+    "Key": "a;sdlkfja; lsdkfj ;alksdfj ;alksdfj; aiefj;lskij;fldsk",
+    "Issuer": "localhost",
+    "Audience": "localhost"
+  }
+}
+
