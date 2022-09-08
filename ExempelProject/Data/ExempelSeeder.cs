@@ -30,7 +30,7 @@ namespace ExempelProject.Data
     {
       _ctx.Database.EnsureCreated();
 
-      StoreUser user = await _userManager.FindByEmailAsync("shawn@dutchtreat.com");
+      StoreUser user = await _userManager.FindByEmailAsync("nevena.kicanovic@gmail.com");
 
       if (user == null)
       {
